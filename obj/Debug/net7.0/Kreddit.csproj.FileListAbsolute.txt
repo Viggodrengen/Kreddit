@@ -1,0 +1,9 @@
+/Users/victorrodam/Kreddit/obj/Debug/net7.0/Kreddit.csproj.AssemblyReference.cache
+/Users/victorrodam/Kreddit/obj/Debug/net7.0/Kreddit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victorrodam/Kreddit/obj/Debug/net7.0/Kreddit.AssemblyInfoInputs.cache
+/Users/victorrodam/Kreddit/obj/Debug/net7.0/Kreddit.AssemblyInfo.cs
+/Users/victorrodam/Kreddit/obj/Debug/net7.0/Kreddit.csproj.CoreCompileInputs.cache
+/Users/victorrodam/Kreddit/obj/Debug/net7.0/Kreddit.MvcApplicationPartsAssemblyInfo.cs
+/Users/victorrodam/Kreddit/obj/Debug/net7.0/Kreddit.MvcApplicationPartsAssemblyInfo.cache
+/Users/victorrodam/Kreddit/obj/Debug/net7.0/Kreddit.RazorAssemblyInfo.cache
+/Users/victorrodam/Kreddit/obj/Debug/net7.0/Kreddit.RazorAssemblyInfo.cs

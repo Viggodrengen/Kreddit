@@ -1,0 +1,53 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Kreddit
+build_property.RootNamespace = Kreddit
+build_property.ProjectDir = /Users/victorrodam/Kreddit/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/victorrodam/Kreddit
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/victorrodam/Kreddit/Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q2xpZW50L0FwcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/victorrodam/Kreddit/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = Q2xpZW50L1BhZ2VzL0luZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/victorrodam/Kreddit/Client/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = Q2xpZW50L1NoYXJlZC9TdXJ2ZXlQcm9tcHQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/victorrodam/Kreddit/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q2xpZW50L19JbXBvcnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/victorrodam/Kreddit/Client/Pages/CreatePost.razor]
+build_metadata.AdditionalFiles.TargetPath = Q2xpZW50L1BhZ2VzL0NyZWF0ZVBvc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-t0k5p9cr8q
+
+[/Users/victorrodam/Kreddit/Client/Pages/PostItem.razor]
+build_metadata.AdditionalFiles.TargetPath = Q2xpZW50L1BhZ2VzL1Bvc3RJdGVtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-sk7v7k6tkz
+
+[/Users/victorrodam/Kreddit/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q2xpZW50L1NoYXJlZC9NYWluTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-urzuimwfzg
+
+[/Users/victorrodam/Kreddit/Client/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q2xpZW50L1NoYXJlZC9OYXZNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-bjoor3sn6n
+
+[/Users/victorrodam/Kreddit/Server/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = U2VydmVyL1BhZ2VzL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

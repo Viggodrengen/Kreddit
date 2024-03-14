@@ -1,0 +1,12 @@
+/Users/victorrodam/Kreddit/Shared/bin/Debug/net7.0/Kreddit.Shared.deps.json
+/Users/victorrodam/Kreddit/Shared/bin/Debug/net7.0/Kreddit.Shared.dll
+/Users/victorrodam/Kreddit/Shared/bin/Debug/net7.0/Kreddit.Shared.pdb
+/Users/victorrodam/Kreddit/Shared/obj/Debug/net7.0/Kreddit.Shared.csproj.AssemblyReference.cache
+/Users/victorrodam/Kreddit/Shared/obj/Debug/net7.0/Kreddit.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victorrodam/Kreddit/Shared/obj/Debug/net7.0/Kreddit.Shared.AssemblyInfoInputs.cache
+/Users/victorrodam/Kreddit/Shared/obj/Debug/net7.0/Kreddit.Shared.AssemblyInfo.cs
+/Users/victorrodam/Kreddit/Shared/obj/Debug/net7.0/Kreddit.Shared.csproj.CoreCompileInputs.cache
+/Users/victorrodam/Kreddit/Shared/obj/Debug/net7.0/Kreddit.Shared.dll
+/Users/victorrodam/Kreddit/Shared/obj/Debug/net7.0/refint/Kreddit.Shared.dll
+/Users/victorrodam/Kreddit/Shared/obj/Debug/net7.0/Kreddit.Shared.pdb
+/Users/victorrodam/Kreddit/Shared/obj/Debug/net7.0/ref/Kreddit.Shared.dll
